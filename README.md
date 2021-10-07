@@ -1,6 +1,6 @@
 Olá! Meu nome é Cintia 👋
 
-- 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas da FATEC Sorocaba, estou aprendendo HTML, CSS e JS e em transição de carreira.
+- 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas da FATEC Sorocaba, estou aprendendo HTML, CSS e JS.
 - 💬 Contate-me no e-mail: cintiafelix1@gmail.com
  <div>
   <a href="https://github.com/CintiaF5">
