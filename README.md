@@ -1,4 +1,4 @@
-Olá! Meu nome é Cintia 👋
+Olá 👋
 
 - 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas da FATEC Sorocaba.
 - 💬 Contate-me no e-mail: cintiafelix1@gmail.com
